@@ -12,12 +12,13 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 ## Sou um entusiasta Engenharia de Dados / Big Data!
 
-- Sou um entusiasta Engenharia de Dados / Big Data!
-   - Atualmente, estou trabalhando na construção de meu conhecimento no campo de engenharia de dados de dados!
+- Estou em busca de transição de carreira.
+   - Atualmente, estou trabalhando na construção de meu conhecimento no campo de engenharia de dados!
    - Arquiterura de datalake, lambda, kappa, ingestão de dados Stream/batch, dispositivos conectados, IoT.
 - Atualmente, estou aprendendo: 
   - IaC - Docker, terraform, kubernetes.
   - Cloud - Aws,Azure, CGP
+  - Spark, Python
 <br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
@@ -56,6 +57,6 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 
 </p>
 
-### My post on Medium!
+### Post no Medium!
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@elnataoliveira/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@elnataoliveira/0" alt="Recent Article 0">
 
