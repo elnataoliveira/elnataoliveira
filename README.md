@@ -24,7 +24,7 @@ You can use the website to generate badges: https://shields.io/
 <br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/flipcase93)
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
 
 ### Languages and Tools:
 
@@ -55,5 +55,5 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
 </p>
 
 ### My Recent post on Medium!
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sachin93/0" alt="Recent Article 0">
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@elnataoliveira/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@elnataoliveira/0" alt="Recent Article 0">
 
