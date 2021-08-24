@@ -13,7 +13,7 @@ You can use the website to generate badges: https://shields.io/
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/sachin93)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/sachin93)
 &nbsp;
-## I'm a Machine Learning/Deep Learning Enthusiast!
+## Sou um entusiasta Engenharia de Dados / Big Data!
 
 - Sou um entusiasta Engenharia de Dados / Big Data!
    - Atualmente, estou trabalhando na construção de meu conhecimento no campo de engenharia de dados de dados!
