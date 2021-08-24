@@ -10,7 +10,7 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elnataoliveira@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
 &nbsp;
-## Sou um entusiasta Engenharia de Dados / Big Data!
+## Sou um entusiasta Engenharia de Dados / IoT!
 
 - Estou em busca de transição de carreira.
    - Atualmente, estou trabalhando na construção de meu conhecimento no campo de engenharia de dados!
