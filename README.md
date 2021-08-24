@@ -15,17 +15,12 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 ## I'm a Machine Learning/Deep Learning Enthusiast!
 
-- I’m currently working on building my knowledge in the field of Data Science!
-  - Learning Computer Vision, Natural Language Processing
-  - Learning how to deploy Machine Learning/Deep Learning Models
-  - Reading papers on ML/DL/AI
-- I’m currently learning : 
-  - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
-  - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- I’m looking to collaborate with other content creators
-- 2020/2021 Goals: Contribute more to Open Source projects
-- Fun fact: I have a degree in Civil Engineering! :construction_worker:
+- Sou um entusiasta Engenharia de Dados / Big Data!
+   - Atualmente, estou trabalhando na construção de meu conhecimento no campo de engenharia de dados de dados!
+   - Arquiterura de datalake, lambda, kappa, ingestão de dados Stream/batch, dispositivos conectados, IoT.
+- Atualmente, estou aprendendo: 
+  - IaC - Docker, terraform, kubernetes.
+  - Cloud - Aws,Azure, CGP
 <br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
@@ -44,17 +39,13 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   -->
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
