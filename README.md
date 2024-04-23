@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 &nbsp;
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
+[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/playlist/1FuwaTKBL5Wm6P0V5QKBx7)
 
 ### Languages and Tools:
 
