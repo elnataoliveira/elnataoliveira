@@ -9,10 +9,8 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/elnataoliveira)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mindsetcloud)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elnataoliveira@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
 &nbsp;
-
-[![Spotify](https://open.spotify.com/playlist/1FuwaTKBL5Wm6P0V5QKBx7)]
+[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)(https://open.spotify.com/playlist/1FuwaTKBL5Wm6P0V5QKBx7)
 
 ### Languages and Tools:
 
