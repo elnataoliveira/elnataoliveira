@@ -1,6 +1,6 @@
 # elnataoliveira
 ![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
-### Hi there, I'm EOS <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### more one in the endless spirall <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/dino.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -10,16 +10,6 @@ You can use the website to generate badges: https://shields.io/
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:elnataoliveira@gmail.com)
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
 &nbsp;
-## Sou um entusiasta Engenharia de Dados / IoT!
-
-- Estou em busca de transição de carreira.
-   - Atualmente, estou trabalhando na construção de meu conhecimento no campo de engenharia de dados!
-   - Arquiterura de datalake, lambda, kappa, ingestão de dados Stream/batch, dispositivos conectados, IoT.
-- Atualmente, estou aprendendo: 
-  - IaC - Docker, terraform, kubernetes.
-  - Cloud - Aws,Azure, CGP
-  - Spark, Python
-<br />
 
 ### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
