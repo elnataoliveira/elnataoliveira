@@ -1,6 +1,6 @@
 # elnataoliveira
 ![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
-### more one in the endless spirall <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/dino.gif" width="30px">
+### more one in the endless spiral <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/dino.gif" width="200px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
