@@ -1,6 +1,7 @@
 # elnataoliveira
 ![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
-### more one in the endless spiral <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/dino.gif" width="200px">
+### more one in the endless spiral 
+<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/dino.gif" width="200px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
@@ -11,7 +12,6 @@ You can use the website to generate badges: https://shields.io/
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
 &nbsp;
 
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
 [![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/playlist/1FuwaTKBL5Wm6P0V5QKBx7)
 
 ### Languages and Tools:
