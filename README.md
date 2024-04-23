@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 [![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/8veggwfdypy6ixn0umbtaicaf)
 &nbsp;
 
-[!](https://open.spotify.com/playlist/1FuwaTKBL5Wm6P0V5QKBx7)
+[!()](https://open.spotify.com/playlist/1FuwaTKBL5Wm6P0V5QKBx7)
 
 ### Languages and Tools:
 
